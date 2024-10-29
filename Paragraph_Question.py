@@ -32,8 +32,8 @@ form_template = """
             }}
             .form-container {{
                 text-align: center;
-                width: 300px;
-                padding: 20px;
+                width: 700px;
+                padding: 30px;
                 border-radius: 8px;
                 background: #ffffff;
                 box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
